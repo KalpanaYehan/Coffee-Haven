@@ -6,7 +6,7 @@ const ServicesData = [
     img: Img2,
     name: "Espresso",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet.",
+      "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans, known for its strong and robust taste.",
     aosDelay: "100",
   },
   {
@@ -14,7 +14,7 @@ const ServicesData = [
     img: Img2,
     name: "Americano",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      " A smooth and bold coffee made by diluting a shot of espresso with hot water, offering a rich and intense flavor.",
     aosDelay: "300",
   },
   {
@@ -22,7 +22,7 @@ const ServicesData = [
     img: Img2,
     name: "Cappuccino",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "A classic coffee drink with equal parts espresso, steamed milk, and a thick layer of frothy milk foam on top.",
     aosDelay: "500",
   },
 ];
