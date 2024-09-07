@@ -42,9 +42,10 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-sm text-gray-500 tracking-wide leading-5"
                 >
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio
+                  Rich and carefully crafted flavors of our top-quality coffee blends, 
+                  each sip delivering a perfect balance of smoothness and intensity. 
+                  Experience the art of coffee-making with our premium selections, 
+                  designed to satisfy even the most discerning coffee lovers.
                 </p>
 
                 <div className="grid grid-cols-2 gap-6">
